@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFA Princial.unity"
+    guid: a14ada771c88c1a48ba1bebe986d2e75
+  - enabled: 1
+    path: Assets/Scenes/SeleccionPersonaje.unity
+    guid: 2ef718bf43afca144bed9a218d1d0c55
+  - enabled: 0
+    path: Assets/Scenes/Space.unity
+    guid: 3250f0697cd9cf943b57751f73fec565
+  - enabled: 1
+    path: Assets/Scenes/Predicado.unity
+    guid: 10a4d99fb7c4ab342be9a63c77672569
+  - enabled: 1
+    path: Assets/Scenes/Verbo.unity
+    guid: b271f6111a5010a49976d031060aeaf1
+  - enabled: 0
+    path: Assets/Scenes/MiniJuego.unity
+    guid: 421eb86872ca77044b7b426b85eef3e8
+  - enabled: 0
+    path: Assets/Scenes/Mundo5.unity
+    guid: 23724537776d1f94f88eba028d8586b3
+  - enabled: 0
+    path: Assets/Scenes/Mundo4.unity
+    guid: 67d9f98017ed51f4896be6bef881b8ed
+  - enabled: 1
+    path: Assets/Scenes/Base Espacial.unity
+    guid: da66844b3490474449e704e7aa9156c4
+  - enabled: 1
+    path: Assets/Scenes/Sujeto.unity
+    guid: 92ff64da8a988a0409d6c102dfc9bc3b
+  - enabled: 1
+    path: Assets/Scenes/Complejo.unity
+    guid: 2bfa5e7e1d1cce249a20551d2b07b24f
+  - enabled: 1
+    path: Assets/Scenes/Sincronizacion.unity
+    guid: 1bf2bac8d7fd19a47acabbbfa2beb07f
+  - enabled: 1
+    path: Assets/scene2.unity
+    guid: 082971f45c115344bab9b4f9424b3903
+  - enabled: 1
+    path: Assets/scene.unity
+    guid: ac4c975a8766b90498d0a34e59cfdc9e
+  - enabled: 1
+    path: Assets/Scenes/Oracion.unity
+    guid: f9bc55fcb43afd74aa4f08ea501b464e
+  - enabled: 0
+    path: Assets/Scenes/Mundo2.unity
+    guid: fe909e2b67d4f38478aad954bf0e28db
+  - enabled: 0
+    path: Assets/Scenes/Mundo3.unity
+    guid: 31d9fc8cd0bd201408cc7383e12b9319
+  - enabled: 1
+    path: Assets/Scenes/Seleccion.unity
+    guid: 507d94c0239feaa4eb40ddb1d464b2b2
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFA 2.unity"
+    guid: 04bf39e7f123ea34d9a5dad31cbf3c40
+  - enabled: 1
+    path: Assets/Scenes/Frases.unity
+    guid: a5205fb7e101fc640ac1a3e99e940f16
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFA Datos.unity"
+    guid: 4492db017ce890544ad41684a3a543be
+  - enabled: 1
+    path: Assets/Batalla.unity
+    guid: 441454210cfea994494411df33395157
+  - enabled: 1
+    path: Assets/Scenes/Ordenar/Ordenar.unity
+    guid: 64032c4558b42f345b55ead0cb9b7bb7
+  - enabled: 1
+    path: Assets/Scenes/Space Art.unity
+    guid: a5f8e56e2fc5f5f4a9e3affdcbd28627
+  m_configObjects: {}
